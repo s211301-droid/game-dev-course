@@ -1,1 +1,1 @@
-# game-dev-course2
+# game-dev-course
